@@ -1,0 +1,14 @@
+.container a{
+    display: block;
+    font-weight:bold ;
+    margin-bottom: 0.2rem;
+    text-decoration:none;
+    list-style: circle;
+}
+
+
+.container a:hover{
+    font-size: 1.5rem;
+    transition-duration: .2s;
+    color: rgb(12, 2, 216);
+}
